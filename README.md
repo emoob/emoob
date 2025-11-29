@@ -1,4 +1,4 @@
-### Hi there 👋
+### [Hi there 👋](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hey%2C+I%27m+Emoob.;I+am%20+a+beginner;)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emoob&hide=css,html&layout=compact)
 <!--
 **emoob/emoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
